@@ -8,6 +8,11 @@
     height: 100% vh;
 }
 
+nav ul li img{
+    width:90px;
+    margin-left: -100px;
+}
+
 nav{
     width:15% vh;
     padding: 16px;
@@ -21,14 +26,13 @@ nav ul{
 
 nav ul li {
     list-style: none;
+    
 }
 
 a{
     text-decoration: none;
 }
-nav img{
-    width:100px
-}
+
 
 main{
     display: flex;
